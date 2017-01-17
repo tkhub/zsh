@@ -1,5 +1,5 @@
-#!/bin/sh
+#!/usr/bin/zsh
 
 cp -f zshrc.txt ~/.zshrc
-sorce ~/.zshrc
+source ~/.zshrc 
 
